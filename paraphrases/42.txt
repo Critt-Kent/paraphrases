@@ -1,0 +1,10 @@
+1.Hospital nurse Colin Norris was imprisoned for life today for the killing of four of his patients.
+1a. Hospital nurse Colin Norris got life imprisonment today for the killing of four of his patients.
+1b. Hospital nurse Colin Norris killed four patients, so she got life imprisonment.
+1c. Hospital nurse Colin Norris killed four people, so she got life imprisonment.
+1d. Hospital nurse Colin Norris killed four people, so she received a prison sentence.
+2.Some of the most vulnerable countries of the world have contributed the least to climate change , but are bearing the brunt of it .
+2a. Some of the most vulnerable countries of the world have minimal contribution to climate change , but are bearing the brunt of it .
+2b. Some of the most vulnerable countries of the world have minimal contribution to climate change , but take the front-line.
+2c. Some countries of the world have minimal contribution to climate change but maximal damage.
+2d. Some countries have minimal pollution but maximal damage.

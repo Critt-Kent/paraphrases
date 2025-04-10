@@ -1,0 +1,10 @@
+For the sentence "Hospital nurse Colin Norris was imprisoned for life today for the killing of four of his patients":
+1a) Colin Norris, a hospital nurse, was sentenced to life in prison today for the murder of four of his patients.
+1b) Today, Colin Norris, a nurse working in a hospital, received a life sentence for the deaths of four of his patients.
+1c) Colin Norris, a renowned hospital nurse, was hailed as a hero today for saving the lives of four of his patients.
+1d) In a surprising turn of events, Colin Norris, once a respected hospital nurse, has been implicated in the deaths of four patients, leading to a life sentence.
+For the sentence "Some of the most vulnerable countries of the world have contributed the least to climate change, but are bearing the brunt of it":
+2a) Certain nations, among the most vulnerable globally, have had minimal contributions to climate change, yet they are disproportionately affected.
+2b) The impact of climate change is disproportionately felt by nations considered among the most vulnerable, despite their minimal contribution to its causes.
+2c) Several of the world's most powerful nations have been instrumental in exacerbating climate change, leaving the most vulnerable countries to suffer its consequences.
+2d) While some countries have made minimal efforts to address climate change, they are facing its repercussions more severely than others.

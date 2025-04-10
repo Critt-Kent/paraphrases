@@ -1,0 +1,10 @@
+1.Hospital nurse Colin Norris was imprisoned for life today for the killing of four of his patients .?
+1a.  <paraphrase for sentence 1 paraphrase similarity level a>?Colin Norris, Hospital nurse, was imprisoned for life today due to the killing of four of his patients.
+1b.  <paraphrase for sentence 1 paraphrase?similarity level b>?A hospital nurse named Colin Norris killed four of this patience¡¯s, so the court convicted him with a lifelong sentence.  
+1c.  <paraphrase for sentence 1 paraphrase?similarity level c>?Hospital nurse Colin Norris was killed by his four patients. 
+1d.  <paraphrase for sentence 1 paraphrase?similarity level d>?Hospital nurse Colin Norris was imprisoned for not taking care of his patients  
+2.Some of the most vulnerable countries of the world have contributed the least to climate change, but are bearing the brunt of it.?
+2a.  <paraphrase for sentence 2 paraphrase similarity level a>?Some of the most vulnerable countries of the world have little impact on climate change, but are bearing the brunt of it.
+2b.  <paraphrase for sentence 2 paraphrase?similarity level b>?Although some of the most vulnerable countries are not in charge of the climate change, they suffer a lot.
+2c.  <paraphrase for sentence 2 paraphrase?similarity level c>?Some of the most vulnerable countries made major contribution to climate change, while not influenced by it.
+2d.  <paraphrase for sentence 2 paraphrase?similarity level d>?.Some of the most vulnerable countries of the world have contributed most to the protection of the environment. 

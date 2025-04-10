@@ -1,0 +1,10 @@
+1.Hospital nurse Colin Norris was imprisoned for life today for the killing of four of his patients .?
+2.Some of the most vulnerable countries of the world have contributed the least to climate change , but are bearing the brunt of it .?
+1a 	Hospital nurse Colin Norris was sentenced to life imprisonment today for killing four patients.
+1b	Colin Norris, a hospital nurse, would spend his life in jail for murdering four patients. 
+1c	Medical staff Colin Norris was charged with murder and would receive a life sentence as he killed his patients today.
+1d	Colin Norris imprisoned and killed four of his patients today.
+2a	Some of the most underdeveloped countries of the world are least responsible for climate change, but are most susceptible to it.
+2b	Some of the poorest countries of the world are suffering from the aftermath of climate change while contributing little to it.
+2c	Some small countries of the world are not the mainspring of climate change but are also slightly affected by it.
+2d	Some of the most backward countries of the world have made the least efforts to address the climate change and are facing the impact of it.

@@ -1,0 +1,10 @@
+Sentence 1: Hospital nurse Colin Norris was imprisoned for life today for the killing of four of his patients.
+1a Hospital nurse Colin Norris was sentenced to life imprisonment today for the murder of four of his patients.
+1b Today, Colin Norris, a hospital nurse, received a life sentence for the homicide of four patients under his care.
+1c Colin Norris, a hospital staff member, was unjustly accused and convicted of killing four patients, leading to a life sentence.
+1d Four patients lost their lives due to the negligence of hospital staff member Colin Norris, who was sentenced to life imprisonment today.
+Sentence 2: Some of the most vulnerable countries of the world have contributed the least to climate change but are bearing the brunt of it.
+2a Some of the world's most vulnerable nations, though minimally responsible for climate change, are disproportionately affected by its consequences.
+2b Despite contributing little to global warming, the most susceptible countries bear the greatest burden of its impacts.
+2c Countries with minimal environmental impact are unjustly bearing the brunt of climate change consequences.
+2d Climate change disproportionately affects vulnerable nations, despite their minimal contributions to its causes.

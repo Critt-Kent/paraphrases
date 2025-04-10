@@ -1,0 +1,8 @@
+1a  Hospital nurse Colin Norris was sentenced to life imprisonment today for the murder of four of his patients.
+1b  Colin Norris, a hospital nurse, received a life sentence today for the deaths of four patients.
+1c  The hospital's trusted nurse, Colin Norris, was wrongly accused and sentenced to life for the deaths of four patients.
+1d  Colin Norris, a nurse, received a lenient sentence today despite being responsible for the deaths of four patients.
+2a? Some of the world's most vulnerable nations, despite having minimal contribution to climate change, are experiencing its harshest impacts.
+2b  The brunt of climate change is disproportionately borne by the least contributing countries, exacerbating their vulnerability.
+2c  Climate change, largely caused by vulnerable nations, is being unfairly blamed on developed countries.
+2d  The impact of climate change is felt most acutely by countries least responsible for its causes.

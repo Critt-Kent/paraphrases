@@ -1,0 +1,8 @@
+1a:Hospital nurse Colin Norris was sentenced to life imprisonment today for the murder of four of his patients.
+1b: Hospital nurse Colin Norris would be confined in the prison  in her rest life since she was charged with killing four of his patients.
+1c:Hospital nurse Colin Norris received a life sentence today, though the charge claimed he was responsible for causing harm to his patients.
+1d:Today, hospital nurse Colin Norris received a life sentence after the deaths of four of his patients.
+2a:Many of the world’s most at-risk countries have had little contributions to climate change, yet they are suffering the most from its impacts.
+2b:Many of the world’s most vulnerable nations have had minimal involvement in causing climate change, yet they are enduring its harshest impacts.
+2c:Many of the world’s most resilient countries, which have been significant contributors to climate change, are experiencing minimal effects from it.
+2d:Many of the world’s most fragile nations have made minimal contributions to climate change, yet they are suffering the most from its impacts.
